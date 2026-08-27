@@ -84,3 +84,11 @@ The main objective of this project is to transform raw pizza sales data into an 
 Aspiring Data Analyst / Data Scientist
 
 GitHub: [omkar-koli-data](https://github.com/omkar-koli-data)
+
+## 📊 Dashboard Preview
+
+### 🏠 Home Dashboard
+![Home Dashboard](Home-Dashboard.png)
+
+### 🏆 Best & Worst Sellers
+![Best Worst Sellers](Best-Worst-Sellers.png)
